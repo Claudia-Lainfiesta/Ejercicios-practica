@@ -1,0 +1,11 @@
+INTRUCCIONES:
+-----------------------------------------------------------------------------------------------------------
+1. Deberás escribir un programa que calcule el área de diferentes polígonos: triángulo, cuadrado y rectángulo.
+
+2. El programa debe solicitar al usuario que ingrese el tipo de polígono y las dimensiones correspondientes.
+
+3. Deberás implementar una función que reciba los parámetros requeridos y que devuelva el área correspondiente.
+
+4. El programa deberá continuar solicitando entradas hasta que el usuario ingrese 'salir'.
+
+5. Asegúrate de manejar entradas no válidas de manera adecuada.
